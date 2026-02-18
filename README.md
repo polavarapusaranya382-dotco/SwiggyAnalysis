@@ -3,7 +3,6 @@
 📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 This project is an interactive Excel dashboard built to analyze Swiggy food delivery data.  
 The dashboard provides insights into sales performance, customer behavior, city-wise distribution, payment trends, and operational metrics.
-
 The objective of this project is to demonstrate advanced Excel capabilities including Pivot Tables, dynamic dashboards, slicer connections, KPI development, and structured backend design.
 
 📁 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗗𝗲𝘁𝗮𝗶𝗹𝘀
@@ -25,7 +24,7 @@ The objective of this project is to demonstrate advanced Excel capabilities incl
 
 🎯 𝗞𝗲𝘆 𝗞𝗣𝗜𝘀 𝗗𝗶𝘀𝗽𝗹𝗮𝘆𝗲𝗱
 
-  •  Total Orders
+  •  Total Orders
   •  Total Revenue
   •  Average Order Value
   •  Average Delivery Time
@@ -58,10 +57,10 @@ The objective of this project is to demonstrate advanced Excel capabilities incl
 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝟯 – 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
 𝗙𝗼𝗰𝘂𝘀: 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝘆 & 𝗢𝗿𝗱𝗲𝗿 𝗦𝘁𝗮𝘁𝘂𝘀
 
-  • Average Delivery Time
-  •  Order Status Breakdown
-  •  Revenue Distribution by Restaurant
-  •  Customer Experience Indicators
+  Average Delivery Time
+  Order Status Breakdown
+  Revenue Distribution by Restaurant
+  Customer Experience Indicators
 
 🛠 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗨𝘀𝗲𝗱
 
@@ -96,7 +95,7 @@ The objective of this project is to demonstrate advanced Excel capabilities incl
 
 📎 𝗙𝗶𝗹𝗲𝘀 𝗜𝗻𝗰𝗹𝘂𝗱𝗲𝗱
 
-  • Swiggy_Sales_Dashboard.xlsx
+  • Swiggy_Sales_Dashboard.xlsx
   • README.md
 
 📈 𝗙𝘂𝘁𝘂𝗿𝗲 𝗜𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁𝘀
